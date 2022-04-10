@@ -1,7 +1,16 @@
 body {
-    background: cadetblue;
+    background: rgb(181, 182, 182);
 }
 h1 {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+form {
+    text-align: center;
 }
